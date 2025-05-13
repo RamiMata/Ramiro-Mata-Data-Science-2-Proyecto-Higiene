@@ -1,0 +1,1 @@
+Hola Buenas, soy Ramiro Mata curso Data Science II: Machine Learning para la Ciencia de Datos - Carreras Intensivas en la Comisión 71945 y este es mi proyecto final. Adjunto el codigo para abrirlo en Colab
